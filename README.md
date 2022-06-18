@@ -5,4 +5,4 @@
 5.Added alt tags for accessibility
 6.Made changes to CSS to reflect changes in html semantic elements
 7.Deployed to github pages Live URL https://sidiro23.github.io/02-Challenge/
-8.Created  Readme.md containing details on changesgit ad
+8.Created  Readme.md containing details on changes
